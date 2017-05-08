@@ -2621,7 +2621,7 @@ footer .copyright span:last-child::after {
 	display: none;
 }
 
-#contactform_email_address #contactform_message {
+#contactform_email_address, #contactform_message {
 	color: #fff;
 	background-color: #151515;
 	border: 1px solid #2198f3;
@@ -2629,4 +2629,8 @@ footer .copyright span:last-child::after {
 
 .copyright {
 	color: rgba(110, 110, 110, 0.3);
+}
+
+.copyright a {
+	color: rgba(255, 255, 255, 0.4);
 }
