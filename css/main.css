@@ -2626,3 +2626,7 @@ footer .copyright span:last-child::after {
 	background-color: #151515;
 	border: 1px solid #2198f3;
 }
+
+.copyright {
+	color: rgba(110, 110, 110, 0.3);
+}
