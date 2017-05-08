@@ -2616,3 +2616,13 @@ footer .copyright span:last-child::after {
 		font-size: 1.2rem;
 	}
 }
+
+.sumome-contactform-link {
+	display: none;
+}
+
+#contactform_email_address {
+	color: #fff;
+	background-color: #151515;
+	border: 1px solid #2198f3;
+}
