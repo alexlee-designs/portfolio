@@ -2617,11 +2617,11 @@ footer .copyright span:last-child::after {
 	}
 }
 
-.sumome-contactform-link {
+.sumome-contactform-link-div {
 	display: none;
 }
 
-#contactform_email_address {
+#contactform_email_address #contactform_message {
 	color: #fff;
 	background-color: #151515;
 	border: 1px solid #2198f3;
