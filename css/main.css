@@ -2601,7 +2601,7 @@ footer .copyright span:last-child::after {
 
 
 /* MY EDITS
-=================================
+================================= */
 
 @media only screen and (max-width: 425px) {
 	.skill-bars li strong {
@@ -2634,4 +2634,3 @@ footer .copyright span:last-child::after {
 .copyright a {
 	color: rgba(255, 255, 255, 0.4);
 }
-*/
