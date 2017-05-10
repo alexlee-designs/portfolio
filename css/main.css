@@ -2634,3 +2634,7 @@ footer .copyright span:last-child::after {
 .copyright a {
 	color: rgba(255, 255, 255, 0.4);
 }
+
+#contact a {
+	color: #6e6e6e;
+}
