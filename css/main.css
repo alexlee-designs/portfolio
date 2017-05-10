@@ -2639,6 +2639,6 @@ footer .copyright span:last-child::after {
 	color: #6e6e6e;
 }
 
-#contact a:hover {
+.contact-link a:hover {
 	color: #2198F3;
 }
