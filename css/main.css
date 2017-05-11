@@ -2629,9 +2629,10 @@ footer .copyright span:last-child::after {
 
 .copyright {
 	color: rgba(110, 110, 110, 0.3);
+	text-align: center;
 }
 
-.copyright a {
+.footer-designs {
 	color: rgba(255, 255, 255, 0.4);
 }
 
