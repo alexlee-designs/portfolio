@@ -1474,9 +1474,9 @@ header .logo a {
 	.intro-content .intro-position span {
 		padding: 0 .6rem;
 	}
-	.intro-content .intro-position span::before, .intro-content .intro-position span::after {
+	/*.intro-content .intro-position span::before, .intro-content .intro-position span::after {
 		display: none !important;
-	}
+	}*/
 	.intro-social {
 		font-size: 2.4rem;
 	}
@@ -2628,12 +2628,12 @@ footer .copyright span:last-child::after {
 }
 
 .copyright {
-	color: rgba(110, 110, 110, 0.3);
+	color: rgba(110, 110, 110, 1);
 	text-align: center;
 }
 
 .footer-designs {
-	color: rgba(255, 255, 255, 0.4);
+	color: rgba(255, 255, 255, 1);
 }
 
 #contact a {
