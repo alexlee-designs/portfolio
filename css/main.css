@@ -2603,7 +2603,7 @@ footer .copyright span:last-child::after {
 /* MY EDITS
 ================================= */
 
-@media only screen and (max-width: 425px) {
+/*@media only screen and (max-width: 425px) {
 	.skill-bars li strong {
 		letter-spacing: 0;
 		font-size: 1.2rem;
@@ -2616,7 +2616,7 @@ footer .copyright span:last-child::after {
 		font-size: 1.2rem;
 	}
 }
-
+*/
 @media only screen and (max-width: 768px) {
 	.skill-bar-div {
 		width: 100%;
