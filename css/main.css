@@ -2621,6 +2621,9 @@ footer .copyright span:last-child::after {
 	.skill-bar-div {
 		width: 100%;
 	}
+	.footer-info {
+		padding-bottom: 25px;
+	}
 }
 
 .sumome-contactform-link-div {
