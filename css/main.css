@@ -2617,6 +2617,12 @@ footer .copyright span:last-child::after {
 	}
 }
 
+@media only screen and (max-width: 768px) {
+	.skill-bar-div {
+		width: 100%;
+	}
+}
+
 .sumome-contactform-link-div {
 	display: none;
 }
